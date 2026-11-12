@@ -1,0 +1,5 @@
+# Answer keys and instructor files stay in Box, never in this public repo
+*_KEY.ipynb
+*INSTRUCTOR*
+_instructor/
+.ipynb_checkpoints/
