@@ -6,6 +6,8 @@ Canyon Fitness is a fictional chain of gyms in Provo, Orem, Lehi and Sandy, Utah
 
 The file is a snapshot of every active member on **October 1, 2026**, plus what happened to each member over the following 92 days (through January 1, 2027). Dates use the format `YYYY-MM-DD`. A blank cell means the event did not happen in that window.
 
+The file was pulled on **January 2, 2027**, the day after that 92-day window closed. That is why one file can hold both what was known on October 1 and what happened afterward. A model used for real can rely only on the columns known on October 1, because when it runs, the later events haven't happened yet.
+
 | Column | Type | Description | Values |
 | --- | --- | --- | --- |
 | `member_id` | Text | Unique member ID | `M10000` to `M11999`; no duplicates |
