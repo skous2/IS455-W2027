@@ -1,0 +1,39 @@
+{
+ "page": 1,
+ "per_page": 3,
+ "total_pages": 2,
+ "total_records": 5,
+ "next": "https://raw.githubusercontent.com/skous2/is455-w2027/main/data/api/smoothie/orders_page_2.json",
+ "results": [
+  {
+   "order_id": 1,
+   "customer": {
+    "name": "Ana",
+    "member": "Y"
+   },
+   "drink": "Mango",
+   "price": "$4.75",
+   "date": "2026-09-28"
+  },
+  {
+   "order_id": 2,
+   "customer": {
+    "name": "Ben",
+    "member": "N"
+   },
+   "drink": "Berry",
+   "price": "$5.25",
+   "date": "2026-09-28"
+  },
+  {
+   "order_id": 3,
+   "customer": {
+    "name": "Cy",
+    "member": "Y"
+   },
+   "drink": "Green",
+   "price": "$5.50",
+   "date": "2026-09-29"
+  }
+ ]
+}

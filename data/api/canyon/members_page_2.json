@@ -1,0 +1,5259 @@
+{
+ "page": 2,
+ "per_page": 250,
+ "total_pages": 9,
+ "total_records": 2025,
+ "next": "https://raw.githubusercontent.com/skous2/is455-w2027/main/data/api/canyon/members_page_3.json",
+ "results": [
+  {
+   "member_id": "M10248",
+   "joined": "09/23/2024",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 44,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 6,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10249",
+   "joined": "2024-08-25",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 37,
+   "visits": {
+    "last_30_days": 14,
+    "prior_30_days": 12,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10250",
+   "joined": "2024-08-28",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 48,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10251",
+   "joined": "2022-11-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 39,
+   "visits": {
+    "last_30_days": 18,
+    "prior_30_days": 26,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10252",
+   "joined": "2023-05-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 40,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 5,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-11-25",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10253",
+   "joined": "2025-05-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 16,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 12
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_visit_date": null,
+   "cancel_date": "2026-10-06",
+   "cancellation_reason": "Cost",
+   "exit_survey_score": 5
+  },
+  {
+   "member_id": "M10254",
+   "joined": "2025-10-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 36,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 0,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10255",
+   "joined": "2024-08-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 40,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-18",
+   "cancel_date": "2026-12-17",
+   "cancellation_reason": "Not using it",
+   "exit_survey_score": 2
+  },
+  {
+   "member_id": "M10256",
+   "joined": "2023-02-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "PROVO",
+   "age": 42,
+   "visits": {
+    "last_30_days": 12,
+    "prior_30_days": 16,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10257",
+   "joined": "2025-05-11",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 36,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10258",
+   "joined": "2025-07-05",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 22,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 1,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10259",
+   "joined": "2023-02-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 26,
+   "visits": {
+    "last_30_days": 30,
+    "prior_30_days": 23,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10260",
+   "joined": "2022-03-29",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 51,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 1,
+    "days_since_last": 29
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10261",
+   "joined": "2024-12-19",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 53,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 3,
+    "days_since_last": 5
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-31",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10262",
+   "joined": "2022-07-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 51,
+   "visits": {
+    "last_30_days": 18,
+    "prior_30_days": 15,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10263",
+   "joined": "2022-10-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 40,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 13,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10264",
+   "joined": "2023-02-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 38,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 10,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10265",
+   "joined": "2022-11-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 25,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-25",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10266",
+   "joined": "2022-03-27",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 29,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10267",
+   "joined": "2022-05-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 31,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-30",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10268",
+   "joined": "2023-08-22",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 40,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 12,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10269",
+   "joined": "2022-02-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 24,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 5,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10270",
+   "joined": "11/07/2023",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": " orem",
+   "age": 24,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 1,
+    "days_since_last": 27
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10271",
+   "joined": "2025-03-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 43,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 2,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10272",
+   "joined": "2024-04-28",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 30,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10273",
+   "joined": "2024-08-26",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 48,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 5,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-27",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10274",
+   "joined": "2023-04-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 52,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 3,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10275",
+   "joined": "2022-11-18",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 44,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 5,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-28",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10276",
+   "joined": "2025-10-03",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 59,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 6,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-22",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10277",
+   "joined": "2026-04-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 32,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 2,
+    "days_since_last": 59
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-23",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10278",
+   "joined": "2026-03-27",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 47,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 19,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10279",
+   "joined": "10/16/2023",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 16,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 12,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10280",
+   "joined": "2025-05-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 22,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 7,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": "2026-12-18",
+   "cancellation_reason": "Moving",
+   "exit_survey_score": 3
+  },
+  {
+   "member_id": "M10281",
+   "joined": "2023-08-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 16,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 10,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-11-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10282",
+   "joined": "2023-09-29",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 24,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 3,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10283",
+   "joined": "11/15/2024",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Lehi ",
+   "age": 43,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 7,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10284",
+   "joined": "2024-11-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 36,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 32,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10285",
+   "joined": "2026-02-04",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 7,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10286",
+   "joined": "2026-07-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 45,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 18,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10287",
+   "joined": "2023-02-27",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 41,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 3,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10288",
+   "joined": "2024-11-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 38,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 4,
+    "days_since_last": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10289",
+   "joined": "2023-12-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 28,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10290",
+   "joined": "2026-04-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 32,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 1,
+    "days_since_last": 167
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-21",
+   "cancel_date": "2026-10-13",
+   "cancellation_reason": "Joined another gym",
+   "exit_survey_score": 4
+  },
+  {
+   "member_id": "M10291",
+   "joined": "2025-05-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 25,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 2,
+    "days_since_last": 63
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10292",
+   "joined": "06/13/2025",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "SANDY",
+   "age": 16,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 6,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10293",
+   "joined": "2025-10-01",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": -1,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 13,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10294",
+   "joined": "2024-12-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 1,
+    "days_since_last": 5
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": "2026-12-16",
+   "cancellation_reason": "Cost",
+   "exit_survey_score": 5
+  },
+  {
+   "member_id": "M10295",
+   "joined": "2024-09-23",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 26,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 7,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10296",
+   "joined": "2024-06-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 40,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 1,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-12-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10297",
+   "joined": "2023-10-06",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 33,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 12,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10298",
+   "joined": "2026-03-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": -1,
+   "visits": {
+    "last_30_days": 14,
+    "prior_30_days": 10,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10299",
+   "joined": "2022-01-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 33,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 10,
+    "days_since_last": 5
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10300",
+   "joined": "2026-08-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 46,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 2,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10301",
+   "joined": "2025-03-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 0,
+    "days_since_last": 112
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10302",
+   "joined": "2026-04-01",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "sandy",
+   "age": 44,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 6,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-11-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10303",
+   "joined": "2022-06-29",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 45,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 4,
+    "days_since_last": 14
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-12-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10304",
+   "joined": "2023-10-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 26,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 11,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-23",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10305",
+   "joined": "12/03/2023",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 13,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10306",
+   "joined": "2022-03-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": " lehi",
+   "age": 27,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10307",
+   "joined": "2025-01-19",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 33,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 9,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10308",
+   "joined": "2026-01-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 37,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 9,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10309",
+   "joined": "2024-09-28",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 34,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 13,
+    "days_since_last": 13
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-12-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10310",
+   "joined": "2025-06-17",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 32,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 11,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10311",
+   "joined": "2024-12-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 16,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 11,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-31",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10312",
+   "joined": "2022-05-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 38,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 7,
+    "days_since_last": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10313",
+   "joined": "2025-03-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 21,
+    "prior_30_days": 16,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10314",
+   "joined": "2025-03-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 34,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 3,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10315",
+   "joined": "2022-04-09",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 17,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 1,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10316",
+   "joined": "2022-07-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "OREM",
+   "age": 36,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 6,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10317",
+   "joined": "2023-10-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 37,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 7,
+    "days_since_last": 7
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10318",
+   "joined": "2022-03-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem ",
+   "age": 32,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 6,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10319",
+   "joined": "2023-07-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 36,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 16,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10320",
+   "joined": "2025-12-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 35,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 15
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10321",
+   "joined": "2024-06-07",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 36,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 4,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10322",
+   "joined": "2023-03-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 31,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 14,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10323",
+   "joined": "2025-03-09",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 31,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-25",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10324",
+   "joined": "2026-05-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "LEHI",
+   "age": 26,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 18,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10325",
+   "joined": "2026-04-25",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 35,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 1,
+    "days_since_last": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10326",
+   "joined": "08/23/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 31,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 4,
+    "days_since_last": 50
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10327",
+   "joined": "2023-11-04",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 31,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10328",
+   "joined": "2026-01-12",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": -1,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10329",
+   "joined": "2023-07-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 26,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 0,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10330",
+   "joined": "2024-12-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "OREM",
+   "age": 27,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 6,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10331",
+   "joined": "2026-06-13",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "SANDY",
+   "age": 29,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 27,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10332",
+   "joined": "2026-01-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo ",
+   "age": 44,
+   "visits": {
+    "last_30_days": 25,
+    "prior_30_days": 19,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10333",
+   "joined": "2023-11-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 26,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 13,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10334",
+   "joined": "2023-02-03",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 42,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 14,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10335",
+   "joined": "2025-02-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 40,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 7,
+    "days_since_last": 4
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-15",
+   "cancel_date": "2026-12-23",
+   "cancellation_reason": "Joined another gym",
+   "exit_survey_score": 4
+  },
+  {
+   "member_id": "M10336",
+   "joined": "2024-08-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 42,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10337",
+   "joined": "2022-11-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 24,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 21,
+    "days_since_last": 2
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10338",
+   "joined": "2024-10-13",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 31,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10339",
+   "joined": "2025-08-12",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 39,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 1,
+    "days_since_last": 143
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10340",
+   "joined": "2025-05-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 25,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 6,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10341",
+   "joined": "2021-11-02",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 31,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 2,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-18",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10342",
+   "joined": "2022-12-20",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 38,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 2,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10343",
+   "joined": "2025-09-13",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 21,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 3,
+    "days_since_last": 10
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_visit_date": null,
+   "cancel_date": "2026-11-21",
+   "cancellation_reason": "Moving",
+   "exit_survey_score": 4
+  },
+  {
+   "member_id": "M10344",
+   "joined": "2025-11-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 16,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 2,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10345",
+   "joined": "2024-03-03",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 28,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 17,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10346",
+   "joined": "2025-04-02",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 39,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 6,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10347",
+   "joined": "2023-02-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 34,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 3,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-28",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10348",
+   "joined": "2025-09-13",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 23,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 11,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10349",
+   "joined": "2022-06-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 22,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 3,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10350",
+   "joined": "2024-03-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 37,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 4,
+    "days_since_last": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10351",
+   "joined": "2026-08-11",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 27,
+   "visits": {
+    "last_30_days": 18,
+    "prior_30_days": 17,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10352",
+   "joined": "2022-12-09",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 16,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 5,
+    "days_since_last": 61
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10353",
+   "joined": "2025-01-19",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 44,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 4,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10354",
+   "joined": "2023-03-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 16,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 1,
+    "days_since_last": 10
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10355",
+   "joined": "2023-10-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 16,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 2,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10356",
+   "joined": "04/04/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 45,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 9,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10357",
+   "joined": "2025-05-26",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 40,
+   "visits": {
+    "last_30_days": 12,
+    "prior_30_days": 7,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10358",
+   "joined": "2025-09-26",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Lehi",
+   "age": 57,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 3,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10359",
+   "joined": "05/08/2025",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 28,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 2,
+    "days_since_last": 8
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10360",
+   "joined": "2025-08-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 27,
+   "visits": {
+    "last_30_days": 34,
+    "prior_30_days": 45,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10361",
+   "joined": "2025-07-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 29,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 4,
+    "days_since_last": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10362",
+   "joined": "2022-07-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 23,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 0,
+    "days_since_last": 21
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10363",
+   "joined": "2023-02-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo ",
+   "age": 28,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 11,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 3,
+   "next_visit_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10364",
+   "joined": "2022-07-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 38,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 7,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10365",
+   "joined": "2025-09-30",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 37,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 2,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10366",
+   "joined": "2022-04-23",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 27,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 6,
+    "days_since_last": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-11-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10367",
+   "joined": "2024-11-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 34,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 16,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10368",
+   "joined": "2023-04-19",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "OREM",
+   "age": 28,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 12,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10369",
+   "joined": "04/06/2024",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 53,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 3,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10370",
+   "joined": "2022-11-16",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 62,
+   "visits": {
+    "last_30_days": 23,
+    "prior_30_days": 16,
+    "days_since_last": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10371",
+   "joined": "2025-12-23",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 47,
+   "visits": {
+    "last_30_days": 28,
+    "prior_30_days": 34,
+    "days_since_last": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10372",
+   "joined": "2025-06-04",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 16,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 1,
+    "days_since_last": 11
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10373",
+   "joined": "2026-01-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 39,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10374",
+   "joined": "2024-03-09",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 42,
+   "visits": {
+    "last_30_days": 20,
+    "prior_30_days": 19,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10375",
+   "joined": "2022-06-25",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 27,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 4,
+    "days_since_last": 13
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10376",
+   "joined": "2022-09-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 24,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 8,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10377",
+   "joined": "2023-12-08",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 55,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 8,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10378",
+   "joined": "2026-04-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 28,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 26,
+    "days_since_last": 0
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10379",
+   "joined": "2025-02-03",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 33,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 3,
+   "next_visit_date": "2026-10-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10380",
+   "joined": "2024-12-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 36,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 3,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10381",
+   "joined": "2025-10-23",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 38,
+   "visits": {
+    "last_30_days": 35,
+    "prior_30_days": 22,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10382",
+   "joined": "2023-07-22",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 25,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 11,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10383",
+   "joined": "2024-07-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 34,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 2,
+    "days_since_last": 18
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10384",
+   "joined": "2022-01-29",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 19,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 5,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10385",
+   "joined": "2024-09-11",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "OREM",
+   "age": 42,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 7,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10386",
+   "joined": "2023-04-11",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "provo",
+   "age": 45,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10387",
+   "joined": "2025-03-30",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 25,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 6,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10388",
+   "joined": "2021-11-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 49,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 13,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10389",
+   "joined": "2026-05-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": " provo",
+   "age": 46,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 5,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-12-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10390",
+   "joined": "2024-11-23",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 42,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 5,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10391",
+   "joined": "2022-03-10",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 57,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 5,
+    "days_since_last": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10392",
+   "joined": "2022-04-14",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 43,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 7,
+    "days_since_last": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10393",
+   "joined": "2022-06-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 38,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 6,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10394",
+   "joined": "2022-06-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 35,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10395",
+   "joined": "2022-10-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 39,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 10,
+    "days_since_last": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10396",
+   "joined": "2022-06-30",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 31,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 0,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10397",
+   "joined": "2022-03-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 40,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 8,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10398",
+   "joined": "2024-09-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 48,
+   "visits": {
+    "last_30_days": 20,
+    "prior_30_days": 20,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10399",
+   "joined": "2026-07-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 36,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 14,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10400",
+   "joined": "2022-04-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 49,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 21,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10401",
+   "joined": "2022-02-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 45,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 5,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10402",
+   "joined": "2024-07-31",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 18,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 16,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10403",
+   "joined": "02/05/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 45,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 5,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10404",
+   "joined": "07/19/2026",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 27,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 3,
+    "days_since_last": 26
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10400",
+   "joined": "2022-04-02",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 49,
+   "visits": {
+    "last_30_days": 17,
+    "prior_30_days": 21,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10405",
+   "joined": "2024-09-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 16,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 4,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10406",
+   "joined": "01/19/2025",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 32,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10407",
+   "joined": "2025-06-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 19,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 8,
+    "days_since_last": 8
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10408",
+   "joined": "2023-11-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 42,
+   "visits": {
+    "last_30_days": 18,
+    "prior_30_days": 23,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10409",
+   "joined": "2024-06-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 17,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 4,
+    "days_since_last": 9
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10410",
+   "joined": "2026-03-09",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 16,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 6,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10411",
+   "joined": "2025-11-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": -1,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 8,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 3,
+   "next_visit_date": "2026-11-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10412",
+   "joined": "2025-01-18",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 30,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 0,
+    "days_since_last": 104
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": "2026-10-06",
+   "cancellation_reason": "Cost",
+   "exit_survey_score": 1
+  },
+  {
+   "member_id": "M10413",
+   "joined": "2024-11-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 26,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 6,
+    "days_since_last": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10414",
+   "joined": "2024-06-17",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 23,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 5,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10415",
+   "joined": "2023-05-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 32,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 1,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10416",
+   "joined": "2022-11-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 37,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 2,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10417",
+   "joined": "2023-06-14",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 42,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 10,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10418",
+   "joined": "2023-09-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 27,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 3,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10419",
+   "joined": "2025-04-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 39,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 4,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10420",
+   "joined": "2024-04-09",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 19,
+    "prior_30_days": 25,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10421",
+   "joined": "2023-08-16",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 24,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 10,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10422",
+   "joined": "2024-02-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 28,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 8,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10423",
+   "joined": "2026-05-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 67,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 17,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-18",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10424",
+   "joined": "2023-02-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 17,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10425",
+   "joined": "2024-06-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": " provo",
+   "age": 37,
+   "visits": {
+    "last_30_days": 12,
+    "prior_30_days": 8,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10426",
+   "joined": "01/14/2022",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 39,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 7,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10427",
+   "joined": "05/02/2024",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 31,
+   "visits": {
+    "last_30_days": 25,
+    "prior_30_days": 20,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10428",
+   "joined": "2022-07-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 16,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 11,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10429",
+   "joined": "2025-10-05",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 39,
+   "visits": {
+    "last_30_days": 7,
+    "prior_30_days": 6,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10430",
+   "joined": "2024-09-01",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Sandy",
+   "age": 31,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 1,
+    "days_since_last": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10431",
+   "joined": "2024-09-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 33,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 2,
+    "days_since_last": 19
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10432",
+   "joined": "2026-04-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 34,
+   "visits": {
+    "last_30_days": 19,
+    "prior_30_days": 12,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10433",
+   "joined": "2026-01-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 34,
+   "visits": {
+    "last_30_days": 1,
+    "prior_30_days": 5,
+    "days_since_last": 21
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10434",
+   "joined": "11/30/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 30,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 9,
+    "days_since_last": 2
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10435",
+   "joined": "2022-09-18",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 56,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 0,
+    "days_since_last": 102
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10436",
+   "joined": "11/08/2023",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 10,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10437",
+   "joined": "2025-06-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 8
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10438",
+   "joined": "2025-05-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 32,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 11,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10439",
+   "joined": "2023-07-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy ",
+   "age": 23,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 14,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10440",
+   "joined": "2023-06-26",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 28,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 7,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10441",
+   "joined": "2022-12-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 38,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 6,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10442",
+   "joined": "2022-07-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 28,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 14,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10443",
+   "joined": "2026-08-11",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 37,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 10,
+    "days_since_last": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 3,
+   "next_visit_date": "2026-11-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10444",
+   "joined": "2023-09-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 27,
+   "visits": {
+    "last_30_days": 15,
+    "prior_30_days": 17,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10445",
+   "joined": "2022-03-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 44,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 6,
+    "days_since_last": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10446",
+   "joined": "2025-03-14",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 38,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 10,
+    "days_since_last": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10447",
+   "joined": "2026-07-18",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": " orem",
+   "age": 42,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10448",
+   "joined": "2023-04-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 23,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 11,
+    "days_since_last": 3
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10449",
+   "joined": "2026-06-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 35,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10447",
+   "joined": "2026-07-18",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": " orem",
+   "age": 42,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 2,
+    "days_since_last": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10450",
+   "joined": "2025-11-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 24,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 0,
+    "days_since_last": 155
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-12-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10451",
+   "joined": "2023-04-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 44,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 13,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10452",
+   "joined": "2021-10-31",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 50,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 5,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10453",
+   "joined": "2023-04-06",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Sandy",
+   "age": 42,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 8,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10454",
+   "joined": "2026-02-22",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Provo",
+   "age": 48,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 16,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10455",
+   "joined": "2026-07-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 38,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 1,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10456",
+   "joined": "2022-03-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 47,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 6,
+    "days_since_last": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-22",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10457",
+   "joined": "2024-07-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 16,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 1,
+    "days_since_last": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10458",
+   "joined": "2025-02-11",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 18,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-11-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10459",
+   "joined": "2024-12-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 45,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 4,
+    "days_since_last": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10460",
+   "joined": "2024-10-11",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem ",
+   "age": 35,
+   "visits": {
+    "last_30_days": 9,
+    "prior_30_days": 5,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10461",
+   "joined": "2025-07-18",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 32,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10462",
+   "joined": "2024-12-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 45,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 2,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10463",
+   "joined": "2024-07-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 50,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10464",
+   "joined": "2026-02-06",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 23,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 7,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10465",
+   "joined": "2022-01-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 32,
+   "visits": {
+    "last_30_days": 13,
+    "prior_30_days": 11,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10466",
+   "joined": "2023-06-13",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 47,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 5,
+    "days_since_last": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10467",
+   "joined": "2024-08-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 35,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10468",
+   "joined": "2024-11-05",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 34,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 5,
+    "days_since_last": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_visit_date": "2026-11-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10469",
+   "joined": "2025-04-20",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 51,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 12,
+    "days_since_last": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-12-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10470",
+   "joined": "2022-12-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": " provo",
+   "age": 28,
+   "visits": {
+    "last_30_days": 19,
+    "prior_30_days": 27,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10471",
+   "joined": "2023-06-13",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 42,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 4,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": "2026-10-12",
+   "cancellation_reason": "Moving",
+   "exit_survey_score": 1
+  },
+  {
+   "member_id": "M10472",
+   "joined": "2025-10-21",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Lehi",
+   "age": 40,
+   "visits": {
+    "last_30_days": 10,
+    "prior_30_days": 19,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10473",
+   "joined": "2024-08-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 43,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 16,
+    "days_since_last": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10474",
+   "joined": "2024-03-28",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem",
+   "age": 42,
+   "visits": {
+    "last_30_days": 12,
+    "prior_30_days": 8,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10475",
+   "joined": "2023-12-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 49,
+   "visits": {
+    "last_30_days": 12,
+    "prior_30_days": 3,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10476",
+   "joined": "2025-12-24",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo ",
+   "age": 36,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 4,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10477",
+   "joined": "2021-11-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi ",
+   "age": 43,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10478",
+   "joined": "2026-03-20",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 21,
+   "visits": {
+    "last_30_days": 6,
+    "prior_30_days": 3,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10479",
+   "joined": "2026-08-23",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 26,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 7,
+    "days_since_last": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10480",
+   "joined": "06/09/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 46,
+   "visits": {
+    "last_30_days": 16,
+    "prior_30_days": 13,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10481",
+   "joined": "2023-12-31",
+   "plan": {
+    "name": "Family",
+    "monthly_fee": "$79.00"
+   },
+   "home_gym": "Orem",
+   "age": 20,
+   "visits": {
+    "last_30_days": 3,
+    "prior_30_days": 3,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10482",
+   "joined": "2022-04-03",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 0,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-11-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10483",
+   "joined": "12/03/2023",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 23,
+   "visits": {
+    "last_30_days": 15,
+    "prior_30_days": 11,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10484",
+   "joined": "2022-09-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Lehi",
+   "age": 26,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 1,
+    "days_since_last": 49
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-11-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10485",
+   "joined": "2025-01-30",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Orem ",
+   "age": 24,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 9,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10486",
+   "joined": "2024-11-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 37,
+   "visits": {
+    "last_30_days": 11,
+    "prior_30_days": 17,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10487",
+   "joined": "2026-07-04",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 31,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 5,
+    "days_since_last": 5
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 1,
+   "next_visit_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10488",
+   "joined": "2025-02-14",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": " sandy",
+   "age": 16,
+   "visits": {
+    "last_30_days": 2,
+    "prior_30_days": 3,
+    "days_since_last": 10
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10489",
+   "joined": "06/22/2026",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Orem",
+   "age": 33,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 5,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-11-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10490",
+   "joined": "2025-09-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Sandy",
+   "age": 42,
+   "visits": {
+    "last_30_days": 14,
+    "prior_30_days": 19,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10491",
+   "joined": "2024-02-11",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 42,
+   "visits": {
+    "last_30_days": 0,
+    "prior_30_days": 4,
+    "days_since_last": 131
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-06",
+   "cancel_date": "2026-10-17",
+   "cancellation_reason": "Cost",
+   "exit_survey_score": 2
+  },
+  {
+   "member_id": "M10492",
+   "joined": "2023-08-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 36,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 11,
+    "days_since_last": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10493",
+   "joined": "2023-01-08",
+   "plan": {
+    "name": "Plus",
+    "monthly_fee": "$45.00"
+   },
+   "home_gym": "Provo",
+   "age": 20,
+   "visits": {
+    "last_30_days": 8,
+    "prior_30_days": 9,
+    "days_since_last": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10494",
+   "joined": "2024-06-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo ",
+   "age": 50,
+   "visits": {
+    "last_30_days": 4,
+    "prior_30_days": 6,
+    "days_since_last": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_visit_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "member_id": "M10495",
+   "joined": "2022-04-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$29.00"
+   },
+   "home_gym": "Provo",
+   "age": 35,
+   "visits": {
+    "last_30_days": 5,
+    "prior_30_days": 11,
+    "days_since_last": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_visit_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  }
+ ]
+}

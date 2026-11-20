@@ -1,0 +1,5259 @@
+{
+ "page": 7,
+ "per_page": 250,
+ "total_pages": 10,
+ "total_records": 2431,
+ "next": "https://raw.githubusercontent.com/skous2/is455-w2027/main/data/api/peakview/subscribers_page_8.json",
+ "results": [
+  {
+   "subscriber_id": "S21483",
+   "signed_up": "2022-10-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 47,
+   "viewing": {
+    "hours_last_30_days": 8.5,
+    "hours_prior_30_days": 8.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21484",
+   "signed_up": "2022-06-24",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 21.5,
+    "hours_prior_30_days": 18.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21485",
+   "signed_up": "05/29/2024",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 54,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 4.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-10-12",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21486",
+   "signed_up": "2021-05-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 25,
+   "viewing": {
+    "hours_last_30_days": 2.0,
+    "hours_prior_30_days": 6.0,
+    "days_since_last_login": 25
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-24",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21487",
+   "signed_up": "2023-07-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 21,
+   "viewing": {
+    "hours_last_30_days": 5.5,
+    "hours_prior_30_days": 7.0,
+    "days_since_last_login": 7
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21488",
+   "signed_up": "2026-05-02",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21489",
+   "signed_up": "2023-11-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 20.0,
+    "hours_prior_30_days": 28.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21490",
+   "signed_up": "2022-02-26",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 21,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 23.0,
+    "days_since_last_login": 6
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21491",
+   "signed_up": "2023-11-19",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 50,
+   "viewing": {
+    "hours_last_30_days": 65.0,
+    "hours_prior_30_days": 73.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21492",
+   "signed_up": "10/26/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 12.5,
+    "days_since_last_login": 7
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21493",
+   "signed_up": "2020-06-09",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 10.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21494",
+   "signed_up": "2023-07-07",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 52.5,
+    "hours_prior_30_days": 74.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21495",
+   "signed_up": "2020-06-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 54,
+   "viewing": {
+    "hours_last_30_days": 16.0,
+    "hours_prior_30_days": 14.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21496",
+   "signed_up": "2026-01-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 7.5,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": "2026-11-14",
+   "cancellation_reason": "Finished a show",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21497",
+   "signed_up": "2020-05-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 15.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21498",
+   "signed_up": "2022-08-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 35,
+   "viewing": {
+    "hours_last_30_days": 14.0,
+    "hours_prior_30_days": 9.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21499",
+   "signed_up": "2024-03-01",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 5.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21500",
+   "signed_up": "2022-01-12",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 16.0,
+    "hours_prior_30_days": 36.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21501",
+   "signed_up": "2020-05-26",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 15.0,
+    "hours_prior_30_days": 58.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21502",
+   "signed_up": "2021-12-01",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21503",
+   "signed_up": "2022-02-10",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 19.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21504",
+   "signed_up": "2022-03-30",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 66.5,
+    "hours_prior_30_days": 125.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21505",
+   "signed_up": "2025-10-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 7.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21506",
+   "signed_up": "2021-03-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 39,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-06",
+   "cancel_date": "2026-12-16",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21507",
+   "signed_up": "2023-12-24",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 18.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21508",
+   "signed_up": "2026-08-20",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 21,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 20.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-18",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21509",
+   "signed_up": "2023-06-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 52,
+   "viewing": {
+    "hours_last_30_days": 3.0,
+    "hours_prior_30_days": 3.5,
+    "days_since_last_login": 22
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21507",
+   "signed_up": "2023-12-24",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 18.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21510",
+   "signed_up": "2024-01-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 8.5,
+    "hours_prior_30_days": 9.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21511",
+   "signed_up": "2022-05-21",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": " mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 11.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21512",
+   "signed_up": "03/21/2021",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 49.0,
+    "hours_prior_30_days": 41.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21513",
+   "signed_up": "2023-07-05",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 24.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-08",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21514",
+   "signed_up": "2022-02-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 31
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-10-23",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21515",
+   "signed_up": "2026-02-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 24,
+   "viewing": {
+    "hours_last_30_days": 4.0,
+    "hours_prior_30_days": 5.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21516",
+   "signed_up": "2025-05-30",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21517",
+   "signed_up": "12/16/2024",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 47,
+   "viewing": {
+    "hours_last_30_days": 11.0,
+    "hours_prior_30_days": 15.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21518",
+   "signed_up": "2020-10-31",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 6.0,
+    "days_since_last_login": 8
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21519",
+   "signed_up": "2026-05-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 7.5,
+    "hours_prior_30_days": 7.0,
+    "days_since_last_login": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-18",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21520",
+   "signed_up": "2020-06-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 29,
+   "viewing": {
+    "hours_last_30_days": 17.0,
+    "hours_prior_30_days": 17.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21521",
+   "signed_up": "2022-02-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "MOUNTAIN",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21522",
+   "signed_up": "2020-10-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "SOUTH",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 3.0,
+    "hours_prior_30_days": 2.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": "2026-11-27",
+   "cancellation_reason": "Finished a show",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21523",
+   "signed_up": "2021-06-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": " pacific",
+   "age": 35,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 18.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21524",
+   "signed_up": "2026-07-23",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 12.5,
+    "days_since_last_login": 6
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21525",
+   "signed_up": "2021-05-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 11.0,
+    "hours_prior_30_days": 16.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21526",
+   "signed_up": "05/08/2020",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 5.5,
+    "hours_prior_30_days": 8.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-08",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21527",
+   "signed_up": "2023-08-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 5.0,
+    "hours_prior_30_days": 12.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21528",
+   "signed_up": "2022-04-19",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 61,
+   "viewing": {
+    "hours_last_30_days": 23.0,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21529",
+   "signed_up": "2020-08-17",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 30.5,
+    "hours_prior_30_days": 39.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21530",
+   "signed_up": "2024-03-23",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 21.0,
+    "hours_prior_30_days": 38.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21531",
+   "signed_up": "2025-01-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 36
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-12-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21532",
+   "signed_up": "2020-04-14",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 25,
+   "viewing": {
+    "hours_last_30_days": 20.5,
+    "hours_prior_30_days": 20.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 3,
+   "next_login_date": "2026-12-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21533",
+   "signed_up": "05/17/2024",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": " pacific",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 24.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-11-20",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21534",
+   "signed_up": "2021-06-10",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Northeast",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 20.5,
+    "hours_prior_30_days": 35.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21535",
+   "signed_up": "2022-03-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 15.0,
+    "hours_prior_30_days": 23.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21536",
+   "signed_up": "2021-08-02",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 8.5,
+    "hours_prior_30_days": 15.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21533",
+   "signed_up": "05/17/2024",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": " pacific",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 24.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-11-20",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21537",
+   "signed_up": "07/02/2020",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 47,
+   "viewing": {
+    "hours_last_30_days": 14.0,
+    "hours_prior_30_days": 4.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21538",
+   "signed_up": "2025-02-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": -1,
+   "viewing": {
+    "hours_last_30_days": 11.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21539",
+   "signed_up": "2021-10-30",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 27.5,
+    "hours_prior_30_days": 25.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21540",
+   "signed_up": "06/01/2020",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 8.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21541",
+   "signed_up": "2024-08-07",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 31,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 16.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21542",
+   "signed_up": "2024-07-29",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest ",
+   "age": 74,
+   "viewing": {
+    "hours_last_30_days": 27.5,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-13",
+   "cancel_date": "2026-11-30",
+   "cancellation_reason": "Finished a show",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21543",
+   "signed_up": "10/15/2022",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 27.5,
+    "hours_prior_30_days": 41.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21544",
+   "signed_up": "2020-12-26",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 8.5,
+    "hours_prior_30_days": 10.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21545",
+   "signed_up": "2025-05-30",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 56,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 11.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21546",
+   "signed_up": "2025-12-12",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": " midwest",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 7.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21547",
+   "signed_up": "2022-12-17",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 49,
+   "viewing": {
+    "hours_last_30_days": 22.0,
+    "hours_prior_30_days": 16.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-23",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21548",
+   "signed_up": "2022-02-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 7.5,
+    "hours_prior_30_days": 11.5,
+    "days_since_last_login": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21549",
+   "signed_up": "2020-03-25",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 32.5,
+    "hours_prior_30_days": 41.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21550",
+   "signed_up": "2021-04-14",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 20.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21551",
+   "signed_up": "2023-03-14",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": " mountain",
+   "age": 51,
+   "viewing": {
+    "hours_last_30_days": 9.5,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21552",
+   "signed_up": "2023-10-29",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 12.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21553",
+   "signed_up": "2022-01-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 60,
+   "viewing": {
+    "hours_last_30_days": 1.5,
+    "hours_prior_30_days": 0.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-11-10",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21554",
+   "signed_up": "2024-07-26",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 52,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 18.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21555",
+   "signed_up": "2021-11-30",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 2.5,
+    "days_since_last_login": 45
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-23",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21556",
+   "signed_up": "2023-10-22",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 23.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21557",
+   "signed_up": "2025-06-08",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 20,
+   "viewing": {
+    "hours_last_30_days": 45.5,
+    "hours_prior_30_days": 58.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21558",
+   "signed_up": "2025-08-28",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 29.0,
+    "hours_prior_30_days": 31.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21559",
+   "signed_up": "2026-05-12",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 7.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21560",
+   "signed_up": "2025-05-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 10.5,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21561",
+   "signed_up": "2022-06-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 10.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-11-27",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21562",
+   "signed_up": "2020-11-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "northeast",
+   "age": 20,
+   "viewing": {
+    "hours_last_30_days": 14.5,
+    "hours_prior_30_days": 22.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21563",
+   "signed_up": "2021-08-20",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 60,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 4.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21564",
+   "signed_up": "2023-08-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 7.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21565",
+   "signed_up": "2021-09-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 20.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21566",
+   "signed_up": "2024-07-15",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "northeast",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 32.0,
+    "hours_prior_30_days": 40.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21567",
+   "signed_up": "2020-09-03",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 22.0,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21568",
+   "signed_up": "2020-07-21",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 39,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 50
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-23",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21569",
+   "signed_up": "2023-04-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 17.0,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21570",
+   "signed_up": "2021-01-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 9.5,
+    "days_since_last_login": 9
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-21",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21571",
+   "signed_up": "2022-10-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21572",
+   "signed_up": "2022-03-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 56,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 21.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21573",
+   "signed_up": "2024-01-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 13.5,
+    "hours_prior_30_days": 18.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21574",
+   "signed_up": "2023-05-19",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Northeast",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 5.5,
+    "days_since_last_login": 6
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21575",
+   "signed_up": "2022-01-22",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 102
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21576",
+   "signed_up": "04/27/2025",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 23.5,
+    "hours_prior_30_days": 27.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21577",
+   "signed_up": "04/26/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 37.0,
+    "hours_prior_30_days": 36.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21578",
+   "signed_up": "2022-09-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "MIDWEST",
+   "age": 19,
+   "viewing": {
+    "hours_last_30_days": 16.0,
+    "hours_prior_30_days": 24.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21579",
+   "signed_up": "2025-01-31",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain ",
+   "age": 20,
+   "viewing": {
+    "hours_last_30_days": 7.5,
+    "hours_prior_30_days": 13.0,
+    "days_since_last_login": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21580",
+   "signed_up": "2026-07-26",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 24.0,
+    "hours_prior_30_days": 18.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21581",
+   "signed_up": "2023-08-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 4.0,
+    "days_since_last_login": 32
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-12-18",
+   "cancel_date": "2026-12-17",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21582",
+   "signed_up": "2023-10-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 49,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 9.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21583",
+   "signed_up": "2021-06-24",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 47,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 18.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-28",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21584",
+   "signed_up": "2024-01-24",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 23.0,
+    "hours_prior_30_days": 28.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-12-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21585",
+   "signed_up": "2021-06-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "mountain",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 2.5,
+    "hours_prior_30_days": 1.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21586",
+   "signed_up": "2023-11-12",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 24.5,
+    "days_since_last_login": 6
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21587",
+   "signed_up": "2022-05-10",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 11.0,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21588",
+   "signed_up": "2020-11-09",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 22.5,
+    "hours_prior_30_days": 35.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21589",
+   "signed_up": "2026-06-29",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Northeast",
+   "age": 24,
+   "viewing": {
+    "hours_last_30_days": 31.5,
+    "hours_prior_30_days": 31.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21590",
+   "signed_up": "08/21/2023",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 50,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21591",
+   "signed_up": "2025-04-15",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "SOUTH",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 31.0,
+    "hours_prior_30_days": 34.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21592",
+   "signed_up": "2022-05-29",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 27.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": "2026-10-17",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21592",
+   "signed_up": "2022-05-29",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 27.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": "2026-10-17",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21593",
+   "signed_up": "2023-09-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 2.0,
+    "hours_prior_30_days": 1.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-11-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21594",
+   "signed_up": "2021-04-20",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 14.5,
+    "hours_prior_30_days": 11.5,
+    "days_since_last_login": 5
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21595",
+   "signed_up": "2020-12-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 20.0,
+    "hours_prior_30_days": 17.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21596",
+   "signed_up": "2023-03-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 45,
+   "viewing": {
+    "hours_last_30_days": 3.0,
+    "hours_prior_30_days": 3.5,
+    "days_since_last_login": 13
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21597",
+   "signed_up": "06/11/2021",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 45,
+   "viewing": {
+    "hours_last_30_days": 22.5,
+    "hours_prior_30_days": 21.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21598",
+   "signed_up": "2021-04-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 14.5,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21599",
+   "signed_up": "2026-01-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 6.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21600",
+   "signed_up": "2023-09-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 29,
+   "viewing": {
+    "hours_last_30_days": 21.5,
+    "hours_prior_30_days": 39.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21601",
+   "signed_up": "2025-05-03",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": " midwest",
+   "age": 35,
+   "viewing": {
+    "hours_last_30_days": 110.0,
+    "hours_prior_30_days": 119.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": "2026-12-07",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 4
+  },
+  {
+   "subscriber_id": "S21602",
+   "signed_up": "2025-11-29",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 44,
+   "viewing": {
+    "hours_last_30_days": 22.5,
+    "hours_prior_30_days": 43.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": "2026-11-01",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 4
+  },
+  {
+   "subscriber_id": "S21603",
+   "signed_up": "2024-03-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 24.5,
+    "hours_prior_30_days": 25.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21604",
+   "signed_up": "2021-11-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": " northeast",
+   "age": 53,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 27.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21605",
+   "signed_up": "12/29/2025",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 54,
+   "viewing": {
+    "hours_last_30_days": 40.5,
+    "hours_prior_30_days": 61.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21606",
+   "signed_up": "2025-02-04",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 42.0,
+    "hours_prior_30_days": 37.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21607",
+   "signed_up": "2025-04-29",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 20.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21608",
+   "signed_up": "2020-07-23",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 20.0,
+    "hours_prior_30_days": 13.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21609",
+   "signed_up": "2024-06-28",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 62,
+   "viewing": {
+    "hours_last_30_days": 24.0,
+    "hours_prior_30_days": 23.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21610",
+   "signed_up": "2020-06-14",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 56,
+   "viewing": {
+    "hours_last_30_days": 18.5,
+    "hours_prior_30_days": 16.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21611",
+   "signed_up": "2023-10-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain ",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 81
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21612",
+   "signed_up": "09/26/2023",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 4.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21613",
+   "signed_up": "2023-08-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 19,
+   "viewing": {
+    "hours_last_30_days": 5.5,
+    "hours_prior_30_days": 9.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21614",
+   "signed_up": "2020-12-05",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 74,
+   "viewing": {
+    "hours_last_30_days": 18.5,
+    "hours_prior_30_days": 20.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21615",
+   "signed_up": "2021-02-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 23.0,
+    "hours_prior_30_days": 13.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21616",
+   "signed_up": "2025-10-08",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 55,
+   "viewing": {
+    "hours_last_30_days": 19.0,
+    "hours_prior_30_days": 18.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21617",
+   "signed_up": "2026-05-24",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 31,
+   "viewing": {
+    "hours_last_30_days": 2.5,
+    "hours_prior_30_days": 2.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-11-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21618",
+   "signed_up": "2022-10-14",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 59,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 73
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-22",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21619",
+   "signed_up": "2020-03-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 52,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 21.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-10-06",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21620",
+   "signed_up": "2024-03-25",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 24,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 12.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 3,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21621",
+   "signed_up": "2024-08-07",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 15.5,
+    "hours_prior_30_days": 16.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-31",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21622",
+   "signed_up": "10/19/2022",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 43.5,
+    "hours_prior_30_days": 80.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21623",
+   "signed_up": "2025-07-21",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Northeast",
+   "age": 57,
+   "viewing": {
+    "hours_last_30_days": 19.0,
+    "hours_prior_30_days": 26.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21624",
+   "signed_up": "2022-01-17",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 26.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-05",
+   "cancel_date": "2026-11-25",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21625",
+   "signed_up": "2020-08-04",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 48,
+   "viewing": {
+    "hours_last_30_days": 24.0,
+    "hours_prior_30_days": 27.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21626",
+   "signed_up": "2020-11-20",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific ",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 22.0,
+    "hours_prior_30_days": 37.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21627",
+   "signed_up": "2023-07-06",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 10.0,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21628",
+   "signed_up": "2024-12-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 5.0,
+    "hours_prior_30_days": 3.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21629",
+   "signed_up": "2024-10-23",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 14.0,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21630",
+   "signed_up": "07/04/2022",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 16.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21631",
+   "signed_up": "2026-02-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 8.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-31",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21632",
+   "signed_up": "2025-04-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 58,
+   "viewing": {
+    "hours_last_30_days": 3.5,
+    "hours_prior_30_days": 7.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-02",
+   "cancellation_reason": "Finished a show",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21633",
+   "signed_up": "2024-11-01",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 45,
+   "viewing": {
+    "hours_last_30_days": 5.5,
+    "hours_prior_30_days": 6.5,
+    "days_since_last_login": 8
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21634",
+   "signed_up": "2025-10-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 29,
+   "viewing": {
+    "hours_last_30_days": 10.5,
+    "hours_prior_30_days": 11.0,
+    "days_since_last_login": 7
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21635",
+   "signed_up": "01/09/2021",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 10.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21636",
+   "signed_up": "2022-06-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 57,
+   "viewing": {
+    "hours_last_30_days": 8.0,
+    "hours_prior_30_days": 15.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21637",
+   "signed_up": "2025-07-13",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 31.0,
+    "hours_prior_30_days": 27.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21638",
+   "signed_up": "2025-04-17",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 35,
+   "viewing": {
+    "hours_last_30_days": 2.5,
+    "hours_prior_30_days": 2.5,
+    "days_since_last_login": 15
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21637",
+   "signed_up": "2025-07-13",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 31.0,
+    "hours_prior_30_days": 27.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21639",
+   "signed_up": "2024-04-12",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 71,
+   "viewing": {
+    "hours_last_30_days": 42.5,
+    "hours_prior_30_days": 33.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21640",
+   "signed_up": "2026-08-29",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 1.5,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 15
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21641",
+   "signed_up": "2021-05-11",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 20.0,
+    "hours_prior_30_days": 32.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21642",
+   "signed_up": "2026-07-27",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 5.5,
+    "hours_prior_30_days": 8.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21643",
+   "signed_up": "2025-12-13",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 54.5,
+    "hours_prior_30_days": 71.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21644",
+   "signed_up": "2022-11-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 9.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": "2026-11-24",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 5
+  },
+  {
+   "subscriber_id": "S21645",
+   "signed_up": "2023-07-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 19,
+   "viewing": {
+    "hours_last_30_days": 8.0,
+    "hours_prior_30_days": 5.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21646",
+   "signed_up": "2023-05-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 26.0,
+    "hours_prior_30_days": 24.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21647",
+   "signed_up": "2026-06-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 34,
+   "viewing": {
+    "hours_last_30_days": 6.5,
+    "hours_prior_30_days": 6.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21648",
+   "signed_up": "2023-04-20",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 15.5,
+    "hours_prior_30_days": 17.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-23",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21649",
+   "signed_up": "2024-03-21",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "mountain",
+   "age": 20,
+   "viewing": {
+    "hours_last_30_days": 16.5,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21650",
+   "signed_up": "2024-05-30",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "SOUTH",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 37.5,
+    "hours_prior_30_days": 42.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-29",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21651",
+   "signed_up": "2024-10-17",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 30.0,
+    "hours_prior_30_days": 22.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21652",
+   "signed_up": "2020-10-22",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 52,
+   "viewing": {
+    "hours_last_30_days": 13.5,
+    "hours_prior_30_days": 20.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-19",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21653",
+   "signed_up": "2021-03-10",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 44,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 10.5,
+    "days_since_last_login": 5
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21649",
+   "signed_up": "2024-03-21",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "mountain",
+   "age": 20,
+   "viewing": {
+    "hours_last_30_days": 16.5,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21654",
+   "signed_up": "2020-04-30",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain ",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 24.0,
+    "hours_prior_30_days": 27.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21655",
+   "signed_up": "2023-07-02",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 15.5,
+    "hours_prior_30_days": 29.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-02",
+   "cancel_date": "2026-11-29",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21656",
+   "signed_up": "2023-09-19",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 40.0,
+    "hours_prior_30_days": 56.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21657",
+   "signed_up": "2022-08-22",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain ",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 47.0,
+    "hours_prior_30_days": 64.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21658",
+   "signed_up": "2021-09-07",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 49,
+   "viewing": {
+    "hours_last_30_days": 16.0,
+    "hours_prior_30_days": 12.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21659",
+   "signed_up": "2025-06-21",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 24.5,
+    "hours_prior_30_days": 13.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21660",
+   "signed_up": "2021-03-10",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": " northeast",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 49.5,
+    "hours_prior_30_days": 51.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21661",
+   "signed_up": "2022-04-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 41,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 6.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21662",
+   "signed_up": "2022-01-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 8.0,
+    "hours_prior_30_days": 10.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21663",
+   "signed_up": "2026-08-29",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 40.5,
+    "hours_prior_30_days": 42.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21664",
+   "signed_up": "2026-07-28",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 50,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21665",
+   "signed_up": "2021-09-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 45,
+   "viewing": {
+    "hours_last_30_days": 3.0,
+    "hours_prior_30_days": 5.5,
+    "days_since_last_login": 13
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21666",
+   "signed_up": "2021-09-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21667",
+   "signed_up": "2023-02-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 7.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21668",
+   "signed_up": "2023-05-31",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 29,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 11.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": "2026-12-31",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 4
+  },
+  {
+   "subscriber_id": "S21669",
+   "signed_up": "2025-10-25",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 9.5,
+    "hours_prior_30_days": 5.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-15",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21670",
+   "signed_up": "10/07/2022",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "northeast",
+   "age": 31,
+   "viewing": {
+    "hours_last_30_days": 47.0,
+    "hours_prior_30_days": 21.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21671",
+   "signed_up": "2022-02-09",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": -1,
+   "viewing": {
+    "hours_last_30_days": 23.5,
+    "hours_prior_30_days": 31.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21672",
+   "signed_up": "2024-04-03",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 24,
+   "viewing": {
+    "hours_last_30_days": 84.5,
+    "hours_prior_30_days": 72.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21673",
+   "signed_up": "2023-04-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 20.5,
+    "hours_prior_30_days": 15.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-11-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21674",
+   "signed_up": "2023-01-07",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "mountain",
+   "age": 44,
+   "viewing": {
+    "hours_last_30_days": 9.5,
+    "hours_prior_30_days": 9.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21675",
+   "signed_up": "2022-01-18",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 148
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21676",
+   "signed_up": "2024-07-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 16.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21677",
+   "signed_up": "2020-05-20",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 56,
+   "viewing": {
+    "hours_last_30_days": 18.5,
+    "hours_prior_30_days": 31.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-21",
+   "cancel_date": "2026-10-24",
+   "cancellation_reason": "Billing problem",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21678",
+   "signed_up": "2022-11-02",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": " northeast",
+   "age": 53,
+   "viewing": {
+    "hours_last_30_days": 24.0,
+    "hours_prior_30_days": 32.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21679",
+   "signed_up": "2026-03-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 45,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 10.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21680",
+   "signed_up": "2023-11-08",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 43,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 9.0,
+    "days_since_last_login": 8
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21681",
+   "signed_up": "2025-03-21",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 25,
+   "viewing": {
+    "hours_last_30_days": 15.0,
+    "hours_prior_30_days": 21.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21682",
+   "signed_up": "2021-10-15",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 38
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": "2026-10-14",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21683",
+   "signed_up": "2022-06-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 37,
+   "viewing": {
+    "hours_last_30_days": 16.5,
+    "hours_prior_30_days": 18.0,
+    "days_since_last_login": 2
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21684",
+   "signed_up": "2023-12-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 5.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-11-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21685",
+   "signed_up": "09/07/2023",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 57,
+   "viewing": {
+    "hours_last_30_days": 14.0,
+    "hours_prior_30_days": 24.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21686",
+   "signed_up": "2020-06-25",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 13.0,
+    "hours_prior_30_days": 33.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21687",
+   "signed_up": "2022-04-25",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 17.0,
+    "hours_prior_30_days": 31.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-20",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21688",
+   "signed_up": "2025-08-07",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Mountain",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 56
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-04",
+   "cancellation_reason": "Finished a show",
+   "exit_survey_score": 2
+  },
+  {
+   "subscriber_id": "S21689",
+   "signed_up": "2020-12-13",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Pacific",
+   "age": 56,
+   "viewing": {
+    "hours_last_30_days": 18.0,
+    "hours_prior_30_days": 19.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-11-24",
+   "cancellation_reason": "Not watching enough",
+   "exit_survey_score": 1
+  },
+  {
+   "subscriber_id": "S21690",
+   "signed_up": "2026-07-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 35.0,
+    "hours_prior_30_days": 38.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21691",
+   "signed_up": "2020-09-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 8.0,
+    "hours_prior_30_days": 6.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-14",
+   "cancel_date": "2026-12-08",
+   "cancellation_reason": "Switched services",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21692",
+   "signed_up": "2025-12-12",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 63,
+   "viewing": {
+    "hours_last_30_days": 11.5,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-27",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21693",
+   "signed_up": "2020-08-23",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 57,
+   "viewing": {
+    "hours_last_30_days": 5.0,
+    "hours_prior_30_days": 4.0,
+    "days_since_last_login": 5
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-07",
+   "cancel_date": "2026-11-01",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21694",
+   "signed_up": "2025-12-03",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 52,
+   "viewing": {
+    "hours_last_30_days": 2.0,
+    "hours_prior_30_days": 7.5,
+    "days_since_last_login": 4
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-11",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21695",
+   "signed_up": "2023-10-16",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Midwest",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 23.5,
+    "hours_prior_30_days": 35.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21696",
+   "signed_up": "2023-02-21",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 39.0,
+    "hours_prior_30_days": 35.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-11-03",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21697",
+   "signed_up": "2020-11-16",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 55,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 10.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-11-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21698",
+   "signed_up": "2022-12-16",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 34
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": "2026-12-24",
+   "cancellation_reason": "Price",
+   "exit_survey_score": 3
+  },
+  {
+   "subscriber_id": "S21699",
+   "signed_up": "2024-08-17",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 42,
+   "viewing": {
+    "hours_last_30_days": 7.0,
+    "hours_prior_30_days": 14.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-10",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21700",
+   "signed_up": "2020-05-09",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 35,
+   "viewing": {
+    "hours_last_30_days": 21.0,
+    "hours_prior_30_days": 24.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21701",
+   "signed_up": "2022-04-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 12.5,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-26",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21702",
+   "signed_up": "2021-02-24",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 27,
+   "viewing": {
+    "hours_last_30_days": 12.0,
+    "hours_prior_30_days": 17.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21703",
+   "signed_up": "2023-03-06",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Midwest",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 7.5,
+    "hours_prior_30_days": 10.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 2,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21704",
+   "signed_up": "2025-07-19",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "South",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 69.5,
+    "hours_prior_30_days": 125.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21705",
+   "signed_up": "2022-10-22",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 3.0,
+    "hours_prior_30_days": 4.0,
+    "days_since_last_login": 29
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21706",
+   "signed_up": "2021-10-28",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 6.0,
+    "hours_prior_30_days": 7.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-17",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21707",
+   "signed_up": "2023-12-13",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 23.5,
+    "hours_prior_30_days": 16.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-09",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21708",
+   "signed_up": "2024-02-14",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 26,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 38
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-16",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21709",
+   "signed_up": "2021-09-28",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 32,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.5,
+    "days_since_last_login": 40
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21710",
+   "signed_up": "08/27/2025",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "South",
+   "age": 40,
+   "viewing": {
+    "hours_last_30_days": 9.0,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-14",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21711",
+   "signed_up": "2020-09-02",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Midwest",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 15.0,
+    "hours_prior_30_days": 9.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-08",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21712",
+   "signed_up": "2021-03-02",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Northeast ",
+   "age": 28,
+   "viewing": {
+    "hours_last_30_days": 21.5,
+    "hours_prior_30_days": 36.5,
+    "days_since_last_login": 2
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21713",
+   "signed_up": "2025-07-30",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 30,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 3.0,
+    "days_since_last_login": 4
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-06",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21714",
+   "signed_up": "2024-10-07",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 18,
+   "viewing": {
+    "hours_last_30_days": 24.5,
+    "hours_prior_30_days": 17.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 3,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21715",
+   "signed_up": "2023-07-18",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "Pacific",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 4.5,
+    "hours_prior_30_days": 3.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-22",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21716",
+   "signed_up": "2023-08-11",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 22,
+   "viewing": {
+    "hours_last_30_days": 18.5,
+    "hours_prior_30_days": 31.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21717",
+   "signed_up": "2024-08-02",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 49,
+   "viewing": {
+    "hours_last_30_days": 17.5,
+    "hours_prior_30_days": 11.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2027-01-01",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21718",
+   "signed_up": "2021-11-20",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 36,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 32
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-13",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21719",
+   "signed_up": "2023-03-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 0.0,
+    "hours_prior_30_days": 0.0,
+    "days_since_last_login": 154
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": null,
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21720",
+   "signed_up": "2023-02-19",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Northeast",
+   "age": 46,
+   "viewing": {
+    "hours_last_30_days": 7.0,
+    "hours_prior_30_days": 8.5,
+    "days_since_last_login": 1
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-04",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21721",
+   "signed_up": "2021-07-08",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": 43,
+   "viewing": {
+    "hours_last_30_days": 15.0,
+    "hours_prior_30_days": 11.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21722",
+   "signed_up": "2021-05-19",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": " south",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 7.0,
+    "hours_prior_30_days": 8.0,
+    "days_since_last_login": 11
+   },
+   "autopay": "Yes",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-12-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21723",
+   "signed_up": "2024-06-27",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Northeast",
+   "age": 38,
+   "viewing": {
+    "hours_last_30_days": 9.5,
+    "hours_prior_30_days": 14.5,
+    "days_since_last_login": 0
+   },
+   "autopay": "N",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-05",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21724",
+   "signed_up": "2025-12-20",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Mountain",
+   "age": -1,
+   "viewing": {
+    "hours_last_30_days": 11.0,
+    "hours_prior_30_days": 20.0,
+    "days_since_last_login": 3
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-18",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21725",
+   "signed_up": "2025-05-26",
+   "plan": {
+    "name": "Premium",
+    "monthly_fee": "$22.99"
+   },
+   "region": "Mountain",
+   "age": 33,
+   "viewing": {
+    "hours_last_30_days": 26.5,
+    "hours_prior_30_days": 36.0,
+    "days_since_last_login": 1
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-12",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21726",
+   "signed_up": "2021-09-21",
+   "plan": {
+    "name": "Basic",
+    "monthly_fee": "$8.99"
+   },
+   "region": "Pacific",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 4.0,
+    "hours_prior_30_days": 5.5,
+    "days_since_last_login": 3
+   },
+   "autopay": "No",
+   "support_tickets_90_days": 0,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  },
+  {
+   "subscriber_id": "S21727",
+   "signed_up": "2023-07-18",
+   "plan": {
+    "name": "Standard",
+    "monthly_fee": "$14.99"
+   },
+   "region": "South",
+   "age": 23,
+   "viewing": {
+    "hours_last_30_days": 10.0,
+    "hours_prior_30_days": 6.0,
+    "days_since_last_login": 0
+   },
+   "autopay": "Y",
+   "support_tickets_90_days": 1,
+   "next_login_date": "2026-10-02",
+   "cancel_date": null,
+   "cancellation_reason": null,
+   "exit_survey_score": null
+  }
+ ]
+}
