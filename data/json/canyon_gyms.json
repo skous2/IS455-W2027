@@ -1,0 +1,62 @@
+[
+  {
+    "home_gym": "Provo",
+    "address": {
+      "city": "Provo",
+      "zip": "84604"
+    },
+    "opened_year": 2012,
+    "has_pool": true,
+    "square_feet": 42000,
+    "amenities": [
+      "pool",
+      "sauna",
+      "climbing wall"
+    ],
+    "manager": "R. Alvarez"
+  },
+  {
+    "home_gym": "Orem",
+    "address": {
+      "city": "Orem",
+      "zip": "84057"
+    },
+    "opened_year": 2015,
+    "has_pool": false,
+    "square_feet": 30000,
+    "amenities": [
+      "sauna"
+    ],
+    "manager": "K. Tanaka"
+  },
+  {
+    "home_gym": "Lehi",
+    "address": {
+      "city": "Lehi",
+      "zip": "84043"
+    },
+    "opened_year": 2019,
+    "has_pool": true,
+    "square_feet": 38000,
+    "amenities": [
+      "pool",
+      "basketball court"
+    ],
+    "manager": "J. Okafor"
+  },
+  {
+    "home_gym": "Sandy",
+    "address": {
+      "city": "Sandy",
+      "zip": "84070"
+    },
+    "opened_year": 2021,
+    "has_pool": false,
+    "square_feet": 33000,
+    "amenities": [
+      "climbing wall",
+      "basketball court"
+    ],
+    "manager": null
+  }
+]

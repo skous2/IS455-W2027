@@ -1,0 +1,71 @@
+[
+  {
+    "region": "Mountain",
+    "office": {
+      "city": "Lehi",
+      "state": "UT"
+    },
+    "launch_year": 2020,
+    "time_zone": "America/Denver",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "regional_manager": "A. Benson"
+  },
+  {
+    "region": "Pacific",
+    "office": {
+      "city": "Sacramento",
+      "state": "CA"
+    },
+    "launch_year": 2020,
+    "time_zone": "America/Los_Angeles",
+    "languages": [
+      "English",
+      "Spanish",
+      "Tagalog"
+    ],
+    "regional_manager": "M. Reyes"
+  },
+  {
+    "region": "Midwest",
+    "office": {
+      "city": "Columbus",
+      "state": "OH"
+    },
+    "launch_year": 2021,
+    "time_zone": "America/Chicago",
+    "languages": [
+      "English"
+    ],
+    "regional_manager": null
+  },
+  {
+    "region": "South",
+    "office": {
+      "city": "Nashville",
+      "state": "TN"
+    },
+    "launch_year": 2022,
+    "time_zone": "America/Chicago",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "regional_manager": "T. Brooks"
+  },
+  {
+    "region": "Northeast",
+    "office": {
+      "city": "Hartford",
+      "state": "CT"
+    },
+    "launch_year": 2022,
+    "time_zone": "America/New_York",
+    "languages": [
+      "English"
+    ],
+    "regional_manager": "L. Chen"
+  }
+]
