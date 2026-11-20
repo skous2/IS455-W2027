@@ -29,3 +29,4 @@ members = pd.read_csv("https://raw.githubusercontent.com/skous2/is455-w2027/main
 | 1 · Jupyter and Python | [1A](module_01/Worksheet_1A_Jupyter_and_Python.ipynb) | [1B](module_01/Worksheet_1B_Jupyter_and_Python.ipynb) |
 | 2 · pandas | [2A](module_02/Worksheet_2A_pandas.ipynb) | [2B](module_02/Worksheet_2B_pandas.ipynb) |
 | 3 · Business understanding | [3A](module_03/Worksheet_3A_Business_Understanding.ipynb) | [3B](module_03/Worksheet_3B_Business_Understanding.ipynb) |
+| 4 · Getting and cleaning data | [4A](module_04/Worksheet_4A_Getting_and_Cleaning_Data.ipynb) | [4B](module_04/Worksheet_4B_Getting_and_Cleaning_Data.ipynb) |
